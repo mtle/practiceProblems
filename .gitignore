@@ -1,3 +1,4 @@
+
 # Prerequisites
 *.d
 
@@ -30,3 +31,16 @@
 *.exe
 *.out
 *.app
+
+# MS visual studio
+*.db
+*.pdb
+*.idb
+*.ilk
+*.ipch
+*.suo
+*.log
+/**/.vs/
+/**/ipch/
+/Debug/
+/Release/

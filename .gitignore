@@ -40,7 +40,7 @@
 *.ipch
 *.suo
 *.log
-/**/.vs/
-/**/ipch/
-/Debug/
-/Release/
+.vs
+ipch
+Debug
+Release
